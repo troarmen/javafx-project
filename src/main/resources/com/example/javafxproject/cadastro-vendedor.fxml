@@ -18,6 +18,9 @@ fx:controller="com.example.javafxproject.CadastroVendedorController">
     <Label text="Nome" />
     <TextField fx:id="txfNome" />
 
+    <Label text="Sobrenome" />
+    <TextField fx:id="txfSobrenome" />
+
     <Label text="E-mail" />
     <TextField fx:id="txfEmail" />
 
